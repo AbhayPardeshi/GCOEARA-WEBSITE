@@ -16,8 +16,13 @@ background-color:grey;
     width:200px;
 }
 
-/* footer */
+
   
-.mb-3{
-    padding-top: 10px;
-  }
+
+
+ .news-title a{
+
+    color: black;
+ } 
+
+
