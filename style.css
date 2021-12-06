@@ -16,7 +16,15 @@ background-color:grey;
     width:200px;
 }
 
+.Gallery1{
 
+    height:auto;
+}
+
+.nav-link a {
+
+    color: white;
+}
   
 
 
@@ -24,5 +32,18 @@ background-color:grey;
 
     color: black;
  } 
+
+.header2-container{
+
+    background-color:white;
+}
+
+.nav-link a {
+      background-color:white;
+
+
+} 
+
+
 
 
