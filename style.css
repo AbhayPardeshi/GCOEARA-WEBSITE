@@ -1,4 +1,7 @@
-
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size :larger;
+}
 
 .college-name{
 background-color:grey;
@@ -37,6 +40,11 @@ background-color:grey;
 
     background-color:white;
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gcoeara.jpg/660px-Gcoeara.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color:#f3eceb;
+    
 }
 
 .nav-link a {
