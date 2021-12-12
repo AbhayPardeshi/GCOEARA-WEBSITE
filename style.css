@@ -12,7 +12,7 @@ background-color:grey;
 
 .principal-img{
 
-    height: 150px;
+    height: 220px;
     width:200px;
 }
 
@@ -43,6 +43,26 @@ background-color:grey;
 
 
 } 
+
+
+
+.news-title a{
+    text-decoration: none;
+}
+
+.news-scroll a{
+    text-decoration: none;
+
+}
+
+ .student-zone-items {
+     text-decoration: none;
+
+ }
+
+ 
+
+
 
 
 
