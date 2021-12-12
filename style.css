@@ -36,6 +36,7 @@ background-color:grey;
 .header2-container{
 
     background-color:white;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gcoeara.jpg/660px-Gcoeara.jpg);
 }
 
 .nav-link a {
@@ -58,6 +59,10 @@ background-color:grey;
  .student-zone-items {
      text-decoration: none;
 
+ }
+
+ .student-zone{
+     background-color:transparent;
  }
 
  
