@@ -29,8 +29,6 @@ background-color:grey;
     color: white;
 }
   
-
-
  .news-title a{
 
     color: black;
@@ -43,15 +41,16 @@ background-color:grey;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    color:#f3eceb;
+    color:white;
+    font-weight: bolder;
     
 }
 
 .nav-link a {
       background-color:white;
 
-
 } 
+
 
 
 
@@ -61,9 +60,12 @@ background-color:grey;
 
 .news-scroll a{
     text-decoration: none;
-
 }
 
+.useful-links a{
+text-decoration: none;
+
+}
  .student-zone-items {
      text-decoration: none;
 
@@ -73,6 +75,9 @@ background-color:grey;
      background-color:transparent;
  }
 
+.gallery-items{
+    color: white;
+}
  
 
 
